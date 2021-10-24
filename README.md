@@ -8,12 +8,14 @@ We needed to pick one of fifty datasets and use PySpark to perform the ETL proce
 
 ## Results:
 
-- How many reviews were paid? *94 How many reviews were unpaid? *40471
-- How many paid 5 Star reviews were there? *48
+- How many reviews were paid? 94 How many reviews were unpaid? 40471
+- How many paid 5 Star reviews were there? 48 How many unpaid 5 Star reviews were there? 15,663
+- What was the percentage of paid 5 Star reviews? 51.06% What was the percentage of unpaid 5 Star reviews? 38.71%
+
+Results below:
 
 ![myTest](https://github.com/nfreeman19/Amazon_Vine_Analysis/blob/main/Screen%20Shot%202021-10-24%20at%208.22.42%20AM.png)
-
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+![myTest]
 
 ## Summary:
 
