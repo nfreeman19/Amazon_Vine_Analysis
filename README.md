@@ -15,9 +15,9 @@ We needed to pick one of fifty datasets and use PySpark to perform the ETL proce
 Results below:
 
 ![myTest](https://github.com/nfreeman19/Amazon_Vine_Analysis/blob/main/Screen%20Shot%202021-10-24%20at%208.22.42%20AM.png)
-![myTest]
+![myTest](https://github.com/nfreeman19/Amazon_Vine_Analysis/blob/main/Screen%20Shot%202021-10-24%20at%208.34.50%20AM.png)
 
 ## Summary:
 
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+There are more unpaid reviews than paid reviews as far as this particular dataset. 
+However the percentage of the reviews in the Vine program were 5 stars reviews were higher than non-vine reviews. This would show a bias in favor of the Vine program.
