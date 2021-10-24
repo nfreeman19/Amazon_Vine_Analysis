@@ -8,6 +8,12 @@ We needed to pick one of fifty datasets and use PySpark to perform the ETL proce
 
 ## Results:
 
+- How many reviews were paid? 
+
+- How many reviews were unpaid?
+
+![myTest]
+
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
 
 ## Summary:
