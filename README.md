@@ -8,11 +8,9 @@ We needed to pick one of fifty datasets and use PySpark to perform the ETL proce
 
 ## Results:
 
-- How many reviews were paid? 
+- How many reviews were paid? How many reviews were unpaid?
 
-- How many reviews were unpaid?
-
-![myTest]
+![myTest](https://github.com/nfreeman19/Amazon_Vine_Analysis/blob/main/Screen%20Shot%202021-10-24%20at%208.22.42%20AM.png)
 
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
 
