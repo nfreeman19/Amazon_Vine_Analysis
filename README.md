@@ -8,8 +8,8 @@ We needed to pick one of fifty datasets and use PySpark to perform the ETL proce
 
 ## Results:
 
-- How many reviews were paid? 94 How many reviews were unpaid? 40471
-- How many 5 Star reviews were there? 48
+- How many reviews were paid? *94 How many reviews were unpaid? *40471
+- How many paid 5 Star reviews were there? *48
 
 ![myTest](https://github.com/nfreeman19/Amazon_Vine_Analysis/blob/main/Screen%20Shot%202021-10-24%20at%208.22.42%20AM.png)
 
